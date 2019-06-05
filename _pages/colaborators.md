@@ -1,6 +1,6 @@
 ---
 layout: page
 permalink: /colaborators/
-title: Colaborators
+title: claborators
 description: List of researchers that I am working with 
 ---
