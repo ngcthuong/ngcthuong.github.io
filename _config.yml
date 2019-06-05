@@ -34,7 +34,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: ngcthuong
-blog_description: A Researcher in the land of Computational Photography and Deep Learning 
+blog_description: Wondering in Deep Computational Photography 
 
 # Pagination
 paginate: 4
