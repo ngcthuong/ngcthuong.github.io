@@ -1,23 +1,23 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Thuong</strong> Nguyen Canh
+description: Postdoctoral. <a href="http://www.ids.osaka-u.ac.jp/en/">Institute for Datability Science</a>. Osaka Unviersity. Japan.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>C501 TechnoAllience </p>
+    <p>2-8 Yamadaoka, Suita</p>
+    <p>Osaka 565-0871, Japan</p>
 
 news: true
 social: true
 ---
+<p align="justify">Thuong Nguyen Canh holds a B.Sc. (2012) in Electronics and Telecommunications from the Hanoi University of Science and Technology, Vietnam, M.Sc. (2014) and Ph.D. (2019) in Computer Engineering from Sungkyunkwan University, South Korea. He is currently a postdoctoral fellow at Institute for Datability Science, Osaka University.</p>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p align="justify">His research interests include computational photography, image/video compression, wireless communication, and applications of deep learning.</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p align="justify">He received the Best Presentation Award at IEEE International Conference on Electronics, Information, and Communication, 2018.</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

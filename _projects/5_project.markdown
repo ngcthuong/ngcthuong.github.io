@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 5
-description: a project with a background image
+title: Light Field Image Coding
+description: Efficient method to compress light field images
 img: /assets/img/1.jpg
 ---
 

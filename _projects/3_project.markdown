@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 3
-description: a project that redirects to another website
+title: Machine Learning Video Compression
+description: Improve coding efficiency for HEVC based on Machine Learning
 img:
 redirect: https://unsplash.com
 ---

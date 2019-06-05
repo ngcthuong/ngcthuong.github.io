@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
+title: Visual Privacy Protection
+description: Secure visual privacy at a sensor level protection
 img: /assets/img/2.jpg
 ---
 

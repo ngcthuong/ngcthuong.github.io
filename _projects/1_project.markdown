@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
+title: Deep Compressive Sensing
+description: Apply deep learning to improve the reconstruction quality of compressive sensing
 img: /assets/img/12.jpg
 ---
 

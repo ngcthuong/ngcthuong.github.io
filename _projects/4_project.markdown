@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 4
-description: another without an image
+title: Future Video Coding
+description: Improve video coding efficiency beyond HEVC
 img:
 ---
 

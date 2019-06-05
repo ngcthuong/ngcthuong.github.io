@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 6
-description: a project with no image
+title: Medical Imaging Applications
+description: Apply machine learning technique for medical imaging application
 img:
 ---
 
