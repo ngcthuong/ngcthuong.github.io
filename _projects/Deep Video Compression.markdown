@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Light Field Image Coding
-description: Efficient method to compress light field images
-img: /assets/img/1.jpg
+title: Deep Learning for Video Compression
+description: 
+img:
+redirect: https://unsplash.com
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.

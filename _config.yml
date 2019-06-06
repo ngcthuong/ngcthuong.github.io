@@ -33,7 +33,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: ngcthuong
+blog_name: 
 blog_description: Wondering in Deep Computational Photography 
 
 # Pagination
