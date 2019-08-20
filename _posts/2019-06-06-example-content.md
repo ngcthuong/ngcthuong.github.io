@@ -2,7 +2,6 @@
 layout: post
 title: Example content
 comments: true
-category: Misc
 ---
 
 
