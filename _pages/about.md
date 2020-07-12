@@ -15,7 +15,7 @@ profile:
 news: true
 social: true
 ---
-<p align="justify">Thuong Nguyen Canh holds a B.Sc. (2012) in Electronics and Telecommunications from the Hanoi University of Science and Technology, Vietnam, M.Sc. (2014) and Ph.D. (2019) in Computer Engineering from Sungkyunkwan University, South Korea. He is currently a postdoctoral fellow at Institute for Datability Science, Osaka University.</p>
+<p align="justify">Thuong Nguyen Canh holds a B.Sc. (2012) in Electronics and Telecommunications from the Hanoi University of Science and Technology, Vietnam, M.Sc. (2014) and Ph.D. (2019) in Computer Engineering from Sungkyunkwan University, South Korea. He was a postdoctoral researcher at Institute for Datability Science, Osaka University. He is now with Tencent America as a senior researcher in video coding. </p>
 
 <p align="justify">His research interests include computational photography, image/video compression, wireless communication, and applications of deep learning.</p>
 
